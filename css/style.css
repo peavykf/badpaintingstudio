@@ -53,8 +53,6 @@ transition: background-color .2s linear, color .2s linear;
 
 .text-h1 {
     font-family: 'Trade Winds', cursive;
-  white-space: nowrap;
-  overflow: hidden;
   }
 
 /* gallery */
