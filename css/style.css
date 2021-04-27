@@ -51,7 +51,12 @@ color: white;
 transition: background-color .2s linear, color .2s linear;
 }
 
----gallery---
+.text-h1 {
+    font-family: 'Trade Winds', cursive;
+}
+
+/* gallery */
+
 * {
   box-sizing: border-box;
 }
