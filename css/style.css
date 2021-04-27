@@ -67,8 +67,7 @@ transition: background-color .2s linear, color .2s linear;
 
 body {
   background-color: #f1f1f1;
-  padding: 20px;
- font-family: 'Bangers', cursive;
+   font-family: 'Bangers', cursive;
 }
 
 /* Center website */
