@@ -22,6 +22,7 @@ header.masthead {
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-size: cover;
+  margin-bottom: -8px;
 }
 
 .checked {
