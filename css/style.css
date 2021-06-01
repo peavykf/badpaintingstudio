@@ -25,6 +25,11 @@ header.masthead {
   margin-bottom: -8px;
 }
 
+.mybtn {
+  background-color:  white;
+  padding:  10px 0 10px 0;
+}
+
 .checked {
   color: gold;
   }
@@ -32,22 +37,45 @@ header.masthead {
 .thanks {
   font-size: 2rem;
   margin-top: 50px;
-  font-family: 'Bangers', cursive;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
-.painting {
+.painting-w {
   margin-top: 100px;
   font-size: 3rem;
   text-align: left;
-  font-family: 'Bangers', cursive;
+  font-family: 'Anton', sans-serif;
+  color: #FFFEFA;
 }
 
-.painting2 {
+.painting-b {
+  margin-top: 100px;
+  font-size: 3rem;
+  text-align: left;
+  font-family: 'Anton', sans-serif;
+  color: #000000;
+}
+
+.painting2-w {
   margin-top: 50px;
   font-size: 1.5rem;
   text-align: left;
   margin-bottom: 200px;
-  font-family: 'Bangers', cursive;
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #FFFEFA;
+}
+
+.painting2-b {
+  margin-top: 50px;
+  font-size: 1.5rem;
+  text-align: left;
+  margin-bottom: 200px;
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #000000;
+}
+
+.social {
+font-family: 'Roboto Condensed', sans-serif;
 }
 
 .conversions {
@@ -4040,6 +4068,7 @@ input[type=button].btn-block {
 .nav-link {
   display: block;
   padding: 0.5rem 1rem;
+  font-family: 'Roboto', sans-serif;
 }
 .nav-link:hover, .nav-link:focus {
   text-decoration: none;
@@ -6260,7 +6289,13 @@ button.bg-secondary:focus {
 }
 
 .bg-success {
-  background-color: #28a745 !important;
+  background-color: #7A9912 !important;
+  margin-bottom: -8px;
+}
+
+.bg-yellow {
+background-color: #E6B00D !important;
+  margin-bottom: -8px;
 }
 
 a.bg-success:hover, a.bg-success:focus,
@@ -10150,7 +10185,7 @@ html {
     height: 100%;
     margin: 0px;
     padding: 0px;
-    overflow-x: hidden; 
+    overflow-x: hidden;
 }
 
 hr.divider {
